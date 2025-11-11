@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xShadow/0xShadow/main/standard.gif" alt="banner" width="100%">
+  <img src="https://raw.githubusercontent.com/0x-Shadow/0x-Shadow/main/standard.gif" alt="banner" width="100%">
 </p>
 
 <!-- Typing SVG -->
@@ -22,6 +22,7 @@ interests:
   - Python Security Tools
 goal: "To build secure systems — and understand how they break."
 motto: "Hack the system. Secure the future."
+
 
 
 
