@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 ```yaml
-alias: HexSecGuru
+alias: 0xShadow
 role: Security Researcher
 focus: Cybersecurity | Ethical Hacking | Network Defense
 age: 16
@@ -21,3 +21,4 @@ interests:
   - Penetration Testing
   - Python Security Tools
 goal: "To build secure systems — and understand how they break."
+
