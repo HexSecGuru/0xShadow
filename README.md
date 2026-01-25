@@ -1,27 +1,18 @@
-
-
-<!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00FF00&center=true&vCenter=true&width=480&lines=0xShadow;Cybersecurity+Researcher;Ethical+Hacker;Developer+%7C+Learner+%7C+Builder" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=33CCFF&center=true&vCenter=true&width=600&lines=0xShadow;Full-Stack+Developer;Systems+Architect;Hardware+Hacker+%7C+Builder" alt="Typing SVG">
+
+  <p align="center">
+    <strong>Bridging the gap between hardware architecture and scalable code.</strong>
+  </p>
 </div>
 
 ---
 
-### 🧠 About Me
+### 🚀 Technical Profile
 ```yaml
-alias: 0xShadow
-role: Security Researcher
-focus: Cybersecurity | Ethical Hacking | Network Defense
-age: 16
-interests:
-  - Reverse Engineering
-  - Penetration Testing
-  - Python Security Tools
-goal: "To build secure systems — and understand how they break."
-motto: "Hack the system. Secure the future."
-
-
-
-
-
-
+user: 0xShadow
+focus: Full-Stack Development / Backend Systems
+mindset: "Systems Thinking — I build the code and the infrastructure it runs on."
+location: IEK Student (Accelerated Path)
+age: 16 (nearly 17)
+motto: "Why use the cloud when you can build it yourself?"
